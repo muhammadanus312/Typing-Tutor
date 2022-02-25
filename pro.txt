@@ -1,0 +1,13 @@
+
+anas
+level 3		time: 0 min 9 sec	speed: 1.22	accuracy:9.09		errors:10		FAILED
+
+anas
+
+anas
+
+anas
+level 1		time: 0 min 30 sec	speed: 2.83	accuracy:76.47		errors:20		PASSED
+
+anas
+level 1		time: 0 min 36 sec	speed: 2.39	accuracy:100.00		errors:0		FAILED
